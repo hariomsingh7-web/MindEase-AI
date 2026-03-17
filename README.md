@@ -15,3 +15,4 @@ MindEase AI is a web-based mental health assistant built for the Axiora Hackatho
 * **AI/ML:** TextBlob / NLTK (Sentiment Analysis)
 * **Frontend:** Streamlit
 * **Platform:** Google Colab
+![App Screenshot](https://github.com/hariomsingh7-web/MindEase-AI/issues/1#issue-4088994892)
