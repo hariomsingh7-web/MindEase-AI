@@ -1,0 +1,22 @@
+The Problem Statement
+In the rapidly evolving landscape of modern logistics, the "last-mile" delivery phase remains the most inefficient 
+and cost-intensive segment of the supply chain. Traditional delivery models are heavily reliant on human labor,
+leading to significant bottlenecks caused by traffic congestion, high operational overhead, and carbon emissions. 
+Furthermore, in specialized environments like university campuses, hospitals, or large-scale exhibitions, the need for a precise,
+contact-less, and localized transport system is often unmet. 
+Existing manual solutions fail to scale effectively and are prone to delays, creating a critical demand for a sustainable,
+automated alternative that can navigate dynamic indoor and outdoor environments with minimal intervention.
+
+The Solution Explanation
+To address these challenges, I developed an Autonomous Delivery Device that integrates cutting-edge 
+IoT architecture with robust Artificial Intelligence and navigation algorithms. 
+The system leverages a suite of ultrasonic and infrared sensors managed by a centralized microcontroller to 
+facilitate real-time obstacle detection and pathfinding. By applying advanced Data Structures and Algorithms (DSA),
+the device calculates the most energy-efficient routes, ensuring high-speed data processing and reliable movement.
+
+The software stack, primarily built using Python and C++, incorporates Computer Vision for environmental mapping and 
+Embedded Systems for precise motor control. This synergy allows the device to operate autonomously in crowded 
+spaces—as successfully demonstrated during its exhibition at the Kolkata Book Fair. 
+This solution not only reduces human error and logistics costs but also aligns with global sustainability 
+goals by utilizing an all-electric, low-energy consumption framework. By bridging the gap between digital command and physical delivery, 
+this project serves as a scalable prototype for the future of smart, autonomous urban infrastructure.
